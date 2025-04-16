@@ -2,7 +2,7 @@
   "name": "puppeteer-scrapper",
   "version": "0.0.1",
   "type": "module",
-  "description": "",
+  "description": "Practice web-scrapper using JavaScript's Puppeteer.",
   "scripts": {
     "dev": "node --loader ts-node/esm ./src/index.ts"
   },
