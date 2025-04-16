@@ -14,5 +14,3 @@ Practice web-scrapper using JavaScript's Puppeteer.
 ```
    pnpm run dev
 ```
-
-_You should see a output directory with hero.json inside._
