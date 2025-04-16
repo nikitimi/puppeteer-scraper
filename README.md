@@ -11,5 +11,10 @@ Currently scrapping Epic Seven Characters from https://epic7db.com/
 ### How to use
 
 1. Install node packages
-2. pnpm run dev
-   _You should see a output directory with hero.json inside._
+2. Then run:
+
+```
+   pnpm run dev
+```
+
+_You should see a output directory with hero.json inside._
