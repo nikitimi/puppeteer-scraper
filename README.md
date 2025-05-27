@@ -1,6 +1,6 @@
-## puppeteer-scrapper
+## puppeteer-scraper
 
-Practice web-scrapper using JavaScript's Puppeteer.
+Practice web scraper using JavaScript's Puppeteer.
 
 **tryCatch.ts** from [t3dotgg](https://github.com/t3dotgg/theo-pager/blob/7aee7664a246b291d873ea471431fa962af113f1/src/shared/trycatch.ts#L15)
 
